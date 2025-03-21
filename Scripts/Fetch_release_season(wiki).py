@@ -2,18 +2,20 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import os
-from datetime import datetime
+import sys
 
-# Load your dataset
+# Ensure UTF-8 encoding for console output
+sys.stdout.reconfigure(encoding='utf-8')
+
 input_path = r'C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Raw\Kaggle_dataset2(with_ratings).csv'
 data = pd.read_csv(input_path)
 
-# Define headers to avoid Wikipedia blocking requests
+data['Original_Index'] = data.index
+
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'
 }
 
-# Function to fetch release date from Wikipedia
 def fetch_wikipedia_release_date(game_name):
     try:
         url = f'https://en.wikipedia.org/wiki/{game_name.replace(" ", "_")}'
@@ -30,12 +32,12 @@ def fetch_wikipedia_release_date(game_name):
                     if header and ('Release' in header.text or 'release' in header.text):
                         date = row.find('td').text.strip().split('\n')[0]
                         parsed_date = pd.to_datetime(date, errors='coerce')
-                        return parsed_date
+                        return parsed_date if not pd.isna(parsed_date) else None
         return None
-    except:
+    except Exception as e:
+        print(f"Error fetching data for {game_name}: {e}")
         return None
 
-# Function to determine the season from the release date
 def get_season(date):
     if pd.isnull(date):
         return None
@@ -49,27 +51,25 @@ def get_season(date):
     else:
         return 'Fall'
 
-# Adding new columns explicitly
-data['Wikipedia_Release_Date'] = None
-data['Wikipedia_Release_Season'] = None
+print("Starting Wikipedia data fetching...")
+data['Wikipedia_Release_Date'] = data['Name'].apply(fetch_wikipedia_release_date)
+data['Wikipedia_Release_Season'] = data['Wikipedia_Release_Date'].apply(get_season)
 
-# Loop through each game title to fetch Wikipedia release dates
-for idx, row in data.iterrows():
-    game_title = row['Name']
-    print(f"Fetching Wikipedia data for {game_title}...")
-    release_date = fetch_wikipedia_release_date(game_title)
-    season = get_season(release_date)
+filtered_data = data.dropna(subset=['Wikipedia_Release_Date'])
 
-    data.at[idx, 'Wikipedia_Release_Date'] = release_date
-    data.at[idx, 'Wikipedia_Release_Season'] = season
+filtered_output_path = r'C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Games_Season_wiki.csv'
+os.makedirs(os.path.dirname(filtered_output_path), exist_ok=True)
+filtered_data.to_csv(filtered_output_path, index=False, encoding='utf-8')
+print("Filtered data saved at:", filtered_output_path)
 
-    print(f"{game_title} | Release Date: {release_date} | Season: {season}")
+df_filtered = pd.read_csv(filtered_output_path)
+print(f"Loaded filtered dataset with {len(df_filtered)} rows")
 
-# Ensure processed directory exists
-output_path = 'Data\Processed\games_with_releasedates(byseason).csv'
-os.makedirs(os.path.dirname(output_path), exist_ok=True)
+columns_to_drop = ['JP_Sales', 'Other_Sales', 'Critic_Score', 'Critic_Count', 'User_Score', 'Rating', 'Wikipedia_Release_Date']
 
-# Save your enhanced dataset
-data.to_csv(output_path, index=False)
+df_cleaned = df_filtered.drop(columns=columns_to_drop)
 
-print("\nWikipedia scraping completed. Data saved clearly:", output_path)
+cleaned_output_path = r'C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Games_Season_wiki_Cleaned.csv'
+os.makedirs(os.path.dirname(cleaned_output_path), exist_ok=True)
+df_cleaned.to_csv(cleaned_output_path, index=False)
+print(f"Cleaned dataset saved explicitly as: {cleaned_output_path}")

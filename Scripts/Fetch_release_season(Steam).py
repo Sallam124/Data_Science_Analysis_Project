@@ -2,7 +2,9 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+import os
 
+# Helper functions
 def get_season(date_str):
     """Converts date string to season."""
     if not date_str or date_str == "NaT":
@@ -26,7 +28,7 @@ def fetch_release_date(app_id):
     """Fetch exact release date from Steam store page."""
     if pd.isna(app_id):
         return None
-    
+
     url = f'https://store.steampowered.com/app/{int(app_id)}'
     response = requests.get(url)
 
@@ -43,6 +45,7 @@ def fetch_release_date(app_id):
                     continue
     return None
 
+# Main processing function
 def process_steam_data(input_file, output_file):
     df = pd.read_csv(input_file)
     print(f"Loaded dataset with {len(df)} rows")
@@ -54,10 +57,23 @@ def process_steam_data(input_file, output_file):
     df["Release_Date"] = df["Steam_App_ID"].apply(fetch_release_date)
     df["Season"] = df["Release_Date"].apply(get_season)
 
-    df.to_csv(output_file, index=False)
+    # Select required columns explicitly
+    selected_columns = [
+        'Name', 'Platform', 'Global_Sales_Millions', 'EU_Sales_Millions',
+        'NA_Sales_Millions', 'Publisher', 'Original_Index', 'Steam_App_ID',
+        'Release_Date', 'Season'
+    ]
+
+    # Save the processed dataframe explicitly
+    df[selected_columns].to_csv(output_file, index=False)
     print(f"Processed file saved as {output_file}")
 
 # Paths explicitly defined
 input_path = r"Data\Processed\SteamIDs_Cleaned.csv"
 output_path = r"Data\Processed\Game_Seasons(Steam).csv"
+
+# Ensure output directory exists
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+# Run the processing function explicitly
 process_steam_data(input_path, output_path)
