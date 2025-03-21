@@ -1,0 +1,439 @@
+Name,Steam_App_ID,Position,Release_Date,Release_Season,Platform,Genre,Publisher,NA_Sales,EU_Sales,Global_Sales,User_Count,Developer,steam_price_usd,metacritic_score,total_recommendations
+Grand Theft Auto: San Andreas,12120.0,18,2005-06-06,Summer,SNES,Platform,Nintendo,12.78,3.75,20.61,,,,93,69735
+Grand Theft Auto: Vice City,12110.0,25,2003-05-13,Spring,GBA,Role-Playing,Nintendo,6.06,3.9,15.85,,,,94,23888
+Call of Duty: Black Ops,42700.0,33,2010-11-09,Fall,3DS,Role-Playing,Nintendo,5.28,4.19,14.6,,,39.99,81,19757
+Call of Duty: Black Ops II,202970.0,35,2012-11-12,Fall,X360,Shooter,Activision,8.25,4.24,13.67,2256.0,Treyarch,59.99,74,20782
+Call of Duty: Black Ops II,202970.0,36,2012-11-12,Fall,X360,Shooter,Activision,8.52,3.59,13.47,2698.0,Infinity Ward,59.99,74,20782
+Grand Theft Auto III,12100.0,39,2002-05-21,Spring,Wii,Fighting,Nintendo,6.62,2.55,12.84,1662.0,Game Arts,,93,10957
+Call of Duty: Black Ops,42700.0,42,2010-11-09,Fall,PS4,Action,Take-Two Interactive,3.96,6.31,12.61,2899.0,Rockstar North,39.99,81,19757
+Call of Duty: Ghosts,209160.0,61,2014-03-25,Spring,Wii,Misc,Ubisoft,5.95,3.11,10.12,16.0,Ubisoft,59.99,68,11710
+Final Fantasy VII,39140.0,66,2013-07-04,Summer,X360,Shooter,Microsoft Game Studios,6.65,2.28,9.71,3260.0,343 Industries,4.79,,23780
+Call of Duty: Ghosts,209160.0,70,2014-03-25,Spring,X360,Shooter,Activision,5.93,2.36,9.31,1320.0,Infinity Ward,59.99,68,11710
+The Elder Scrolls V: Skyrim,72850.0,76,2011-11-10,Fall,SNES,Racing,Nintendo,3.54,1.24,8.76,,,19.99,94,181096
+The Sims 3,47890.0,86,2009-06-02,Summer,Wii,Sports,Sega,2.57,3.86,7.99,,,19.99,86,29443
+Call of Duty: World at War,10090.0,101,2008-11-18,Fall,X360,Shooter,Electronic Arts,4.46,2.11,7.32,2142.0,EA DICE,19.99,83,42754
+Battlefield 3,1238820.0,102,2011-10-28,Fall,PS2,Racing,Electronic Arts,3.27,2.83,7.2,171.0,EA Black Box,1.99,89,11710
+Battlefield 3,1238820.0,105,2011-10-28,Fall,PS4,Role-Playing,Bethesda Softworks,2.53,3.27,7.16,4228.0,Bethesda Game Studios,1.99,89,11710
+Fallout 4,377160.0,106,2015-11-09,Fall,PS,Fighting,Sony Computer Entertainment,3.27,2.22,7.16,367.0,Namco,19.99,84,258750
+The Elder Scrolls V: Skyrim,72850.0,131,2011-11-10,Fall,GBA,Role-Playing,Nintendo,2.57,1.58,6.41,222.0,Game Freak,19.99,94,181096
+Resident Evil 2,883710.0,152,2019-01-24,Winter,DS,Role-Playing,Nintendo,0.63,0.67,5.78,197.0,Level 5,9.99,89,115624
+Call of Duty: World at War,10090.0,171,2008-11-18,Fall,PS4,Shooter,Sony Computer Entertainment,1.85,2.5,5.38,7064.0,Naughty Dog,19.99,83,42754
+Resident Evil 5,21690.0,200,2009-09-15,Fall,DS,Action,Nintendo,1.85,1.8,5.08,416.0,Nintendo,4.99,86,33948
+Resident Evil,304240.0,204,2015-01-19,Winter,PSP,Action,Take-Two Interactive,1.7,1.99,5.03,150.0,Rockstar Leeds,4.99,82,19447
+Tomb Raider,203160.0,230,2013-03-04,Spring,Wii,Simulation,Nintendo,1.82,1.12,4.62,119.0,Nintendo,14.99,86,153624
+Call of Duty: Infinite Warfare,292730.0,246,2016-11-03,Fall,PS2,Action,Sony Computer Entertainment,2.71,1.29,4.45,997.0,SCE Santa Monica,59.99,73,15634
+God of War,1593500.0,247,2022-01-14,Winter,WiiU,Shooter,Nintendo,1.54,1.18,4.43,1184.0,Nintendo,49.99,93,108496
+Fallout 4,377160.0,271,2015-11-09,Fall,X360,Sports,Electronic Arts,0.92,2.89,4.22,435.0,EA Canada,19.99,84,258750
+Half-Life,70.0,285,1998-11-19,Fall,SNES,Platform,Nintendo,1.65,0.61,4.12,,,9.99,96,103571
+Battlefield 1,1238840.0,290,2016-10-20,Fall,PS2,Action,Sony Computer Entertainment,2.32,0.04,4.07,709.0,SCE Santa Monica,1.99,,159796
+Fallout: New Vegas,22380.0,293,2010-10-21,Fall,X360,Racing,Microsoft Game Studios,2.35,1.27,4.05,381.0,Turn 10,9.99,84,179967
+Far Cry 4,298110.0,299,2014-11-18,Fall,N64,Shooter,Nintendo,2.78,0.58,4.03,,,29.99,80,55066
+Left 4 Dead 2,550.0,303,2009-11-16,Fall,PS4,Role-Playing,Namco Bandai Games,1.02,2.13,3.97,10179.0,CD Projekt Red Studio,9.99,89,721558
+The Witcher 3: Wild Hunt,292030.0,304,2015-05-18,Spring,PS4,Action,Ubisoft,1.19,2.07,3.96,2050.0,"Ubisoft, Ubisoft Montreal",7.99,93,763222
+Batman: Arkham Knight,208650.0,306,2015-06-23,Summer,Wii,Action,Nintendo,2.03,1.16,3.95,1958.0,Nintendo,19.99,,93669
+The Elder Scrolls V: Skyrim,72850.0,314,2011-11-10,Fall,PS4,Sports,Take-Two Interactive,2.49,0.66,3.88,364.0,Visual Concepts,19.99,94,181096
+Call of Duty: Ghosts,209160.0,324,2014-03-25,Spring,DS,Misc,Nintendo,0.86,1.56,3.83,4.0,"Nintendo, Namco Bandai Games",59.99,68,11710
+Resident Evil 4,2050650.0,351,2023-03-23,Spring,Wii,Misc,Activision,2.32,0.96,3.62,71.0,Vicarious Visions,19.99,91,111301
+Battlefield 4,1238860.0,358,2013-10-29,Fall,PS2,Shooter,LucasArts,2.18,1.02,3.59,268.0,Pandemic Studios,1.99,,57156
+Left 4 Dead,500.0,372,2008-11-17,Fall,SNES,Platform,Nintendo,1.17,0.5,3.51,,,9.99,89,51252
+Resident Evil 5,21690.0,376,2009-09-15,Fall,X360,Action,Ubisoft,2.85,0.38,3.49,693.0,Ubisoft Montreal,4.99,86,33948
+Battlefield 4,1238860.0,379,2013-10-29,Fall,X360,Action,Eidos Interactive,2.2,0.95,3.48,1080.0,Rocksteady Studios,1.99,,57156
+Battlefield 4,1238860.0,381,2013-10-29,Fall,X360,Shooter,Electronic Arts,2.1,1.01,3.47,869.0,EA DICE,1.99,,57156
+Battlefield: Bad Company 2,24960.0,382,2010-03-02,Spring,DS,Sports,Sega,1.21,1.62,3.46,,,,87,31707
+Metal Gear Solid V: The Phantom Pain,287700.0,391,2015-09-01,Fall,PS2,Action,Activision,1.75,1.2,3.41,106.0,Treyarch,19.99,91,65936
+Assassin's Creed Syndicate,368500.0,397,2015-11-18,Fall,X360,Action,Warner Bros. Interactive Entertainment,2.04,1.02,3.38,75.0,Traveller's Tales,29.99,74,27331
+Far Cry 3,220240.0,402,2012-11-28,Fall,PS,Adventure,THQ,1.63,1.53,3.34,,,19.99,88,101450
+Halo: The Master Chief Collection,976730.0,423,2019-12-03,Winter,PS,Shooter,Electronic Arts,1.72,1.33,3.21,,,39.99,,217750
+L.A. Noire,110800.0,434,,,PS2,Simulation,Sony Computer Entertainment Europe,2.06,0.56,3.17,95.0,Namco,9.99,83,28108
+Fallout: New Vegas,22380.0,446,2010-10-21,Fall,DS,Misc,Nintendo,0.9,1.0,3.11,10.0,Indies Zero,9.99,84,179967
+Resident Evil 6,221040.0,450,2013-03-22,Spring,X360,Role-Playing,Electronic Arts,1.99,0.81,3.1,3143.0,BioWare,4.99,69,38461
+The Sims 4,1222670.0,459,2014-09-02,Fall,X360,Shooter,Take-Two Interactive,1.89,0.88,3.05,892.0,Gearbox Software,,,80132
+Borderlands 2,49520.0,460,2012-09-20,Fall,DS,Action,Warner Bros. Interactive Entertainment,1.75,1.01,3.05,16.0,TT Fusion,19.99,89,199707
+Saints Row 2,9480.0,466,2009-01-28,Winter,XB,Action,Ubisoft,1.85,1.04,3.02,121.0,Ubisoft Montreal,9.99,72,11704
+Far Cry 3,220240.0,472,2012-11-28,Fall,Wii,Platform,Disney Interactive Studios,2.04,0.63,3.0,131.0,Junction Point,19.99,88,101450
+Star Wars: The Old Republic,1286830.0,481,2011-12-20,Winter,PS4,Action,Warner Bros. Interactive Entertainment,1.01,1.43,2.96,1886.0,Monolith Productions,,85,406
+Middle-Earth: Shadow of Mordor,241930.0,482,2014-09-30,Fall,PS2,Platform,Sega,1.04,1.37,2.96,94.0,Sonic Team,19.99,84,58279
+Battlefield: Bad Company 2,24960.0,486,2010-03-02,Spring,N64,Racing,Nintendo,1.98,0.58,2.94,,,,87,31707
+Call of Duty: Ghosts,209160.0,494,2014-03-25,Spring,X360,Sports,Electronic Arts,0.79,1.92,2.92,85.0,EA Sports,59.99,68,11710
+BioShock,7670.0,517,2007-08-21,Summer,GC,Shooter,Nintendo,1.96,0.67,2.82,747.0,Retro Studios,19.99,96,23860
+Medal of Honor,47830.0,523,2010-10-12,Fall,PS3,Racing,Electronic Arts,0.71,1.46,2.81,,,4.99,72,5830
+Need for Speed: Hot Pursuit,47870.0,537,2010-11-16,Fall,Wii,Action,Activision,1.35,1.13,2.78,31.0,Toys for Bob,,86,17403
+Battlefield 3,1238820.0,539,2011-10-28,Fall,PS4,Fighting,Warner Bros. Interactive Entertainment,1.5,0.8,2.78,836.0,"Warner Bros. Interactive Entertainment, NetherRealm Studios",1.99,89,11710
+Mortal Kombat X,307780.0,540,2015-04-13,Spring,PS2,Simulation,Electronic Arts,1.41,1.12,2.77,46.0,Edge of Reality,19.99,84,35466
+Saints Row: The Third,55230.0,546,2011-11-17,Fall,2600,Shooter,Atari,2.56,0.17,2.76,,,9.99,84,47911
+L.A. Noire,110800.0,557,,,X360,Shooter,Activision,1.49,0.92,2.7,233.0,Treyarch,9.99,83,28109
+Medal of Honor,47830.0,569,2010-10-12,Fall,XB,Role-Playing,Microsoft Game Studios,1.99,0.58,2.66,268.0,Big Blue Box,4.99,72,5830
+Medal of Honor,47830.0,587,2010-10-12,Fall,PS2,Action,Electronic Arts,0.9,1.22,2.61,49.0,Electronic Arts,4.99,72,5830
+Saints Row: The Third,55230.0,630,2011-11-17,Fall,PS3,Shooter,Sony Computer Entertainment,1.15,0.84,2.46,1889.0,Insomniac Games,9.99,84,47911
+Call of Duty: Infinite Warfare,292730.0,641,2016-11-03,Fall,XOne,Sports,Electronic Arts,2.08,0.08,2.42,124.0,EA Sports,59.99,73,15634
+Half-Life 2,220.0,666,2004-11-16,Fall,PS2,Action,THQ,0.96,1.08,2.37,22.0,Heavy Iron Studios,9.99,96,177809
+Guild Wars 2,1284210.0,689,2022-08-23,Summer,PS,Sports,989 Studios,1.65,0.46,2.31,,,,90,332
+Batman: Arkham Origins,209000.0,693,2013-10-24,Fall,PC,Action,Eidos Interactive,0.91,1.25,2.29,37.0,Core Design Ltd.,19.99,74,38470
+The Sims 3,47890.0,702,2009-06-02,Summer,DS,Role-Playing,Nintendo,0.94,0.53,2.28,27.0,"HAL Labs, Creatures Inc.",19.99,86,29444
+Battlefield 1,1238840.0,710,2016-10-20,Fall,PS2,Adventure,Capcom,0.62,0.44,2.25,52.0,Capcom,1.99,,159796
+Borderlands 2,49520.0,728,2012-09-20,Fall,PS2,Action,Ubisoft,0.88,1.03,2.22,204.0,Ubisoft,19.99,89,199707
+LEGO Marvel Super Heroes,249130.0,731,2013-11-15,Fall,GB,Adventure,Nintendo,1.0,0.63,2.22,,,19.99,78,18197
+Resident Evil 4,2050650.0,733,2023-03-23,Spring,PS4,Shooter,Ubisoft,0.55,1.19,2.21,480.0,Ubisoft Montreal,19.99,91,111301
+Need for Speed: Hot Pursuit,47870.0,743,2010-11-16,Fall,DS,Action,Activision,1.4,0.59,2.2,16.0,TT Fusion,,86,17403
+BioShock 2,8850.0,745,2010-02-09,Winter,DS,Puzzle,Disney Interactive Studios,1.06,0.9,2.2,,,19.99,88,10855
+Hitman: Absolution,203140.0,769,2012-11-19,Fall,PC,Simulation,Maxis,1.2,0.84,2.14,,,19.99,79,41531
+Dying Light,239140.0,798,2015-01-26,Winter,3DS,Role-Playing,Nintendo,0.25,0.45,2.09,,,8.99,87,337597
+Portal 2,620.0,809,2011-04-18,Spring,Wii,Sports,Nintendo,0.88,0.44,2.08,34.0,Square Enix,9.99,95,355457
+Call of Duty 2,2630.0,843,2005-10-25,Fall,Wii,Misc,Ubisoft,0.72,1.08,2.03,29.0,"Ubisoft Paris, Ubisoft Montpellier",19.99,86,8113
+Battlefield 4,1238860.0,848,2013-10-29,Fall,3DS,Role-Playing,Nintendo,0.9,0.45,2.01,1130.0,Intelligent Systems,,,
+Resident Evil 6,221040.0,875,2013-03-22,Spring,XB,Action,Take-Two Interactive,1.26,0.61,1.95,118.0,Rockstar North,,,
+Grand Theft Auto: San Andreas,12120.0,876,2005-06-06,Summer,PC,Shooter,LucasArts,1.09,0.77,1.95,,,,,
+The Sims 3,47890.0,885,2009-06-02,Summer,X360,Sports,Electronic Arts,0.49,1.26,1.94,106.0,EA Canada,,,
+Call of Duty: World at War,10090.0,888,2008-11-18,Fall,PS,Racing,Sony Computer Entertainment,1.41,0.42,1.94,,,,,
+BioShock Infinite,8870.0,891,2013-03-25,Spring,PS2,Role-Playing,Activision,1.0,0.72,1.93,69.0,Raven Software,,,
+Batman: Arkham Origins,209000.0,916,2013-10-24,Fall,Wii,Misc,Midway Games,1.28,0.43,1.88,7.0,Midway,,,
+Just Cause 3,225540.0,939,2015-11-30,Fall,PS,Role-Playing,SquareSoft,0.62,0.42,1.86,297.0,SquareSoft,,,
+Max Payne 3,204100.0,944,,,PS2,Racing,Unknown,0.0,1.1,1.84,,,,,
+LEGO Marvel Super Heroes,249130.0,946,2013-11-15,Fall,DS,Action,Disney Interactive Studios,1.32,0.37,1.84,8.0,Altron,,,
+The Evil Within,268050.0,977,2014-10-13,Fall,Wii,Shooter,Nintendo,0.89,0.74,1.79,491.0,Retro Studios,,,
+Just Cause 2,8190.0,1009,2010-03-23,Spring,SNES,Platform,Capcom,0.94,0.34,1.75,,,,,
+The Elder Scrolls Online,306130.0,1013,2014-04-04,Spring,PS3,Sports,Electronic Arts,0.35,1.06,1.75,47.0,EA Canada,,,
+Hitman: Absolution,203140.0,1034,2012-11-19,Fall,PS2,Action,Take-Two Interactive,0.85,0.66,1.72,,,,,
+Dishonored,205100.0,1042,2012-10-11,Fall,PS,Platform,Activision,0.99,0.64,1.71,,,,,
+Portal 2,620.0,1053,2011-04-18,Spring,SNES,Puzzle,Banpresto,0.0,0.0,1.7,,,,,
+No Man's Sky,275850.0,1057,2016-08-12,Summer,DS,Action,D3Publisher,0.68,0.82,1.7,,,,,
+BioShock Infinite,8870.0,1061,2013-03-25,Spring,PS,Misc,Sony Computer Entertainment,0.94,0.64,1.69,,,,,
+Resident Evil 4,2050650.0,1069,2023-03-23,Spring,DS,Puzzle,Nintendo,0.48,1.12,1.69,,Jupiter Corporation,,,
+Saints Row 2,9480.0,1076,2009-01-28,Winter,GB,Puzzle,Nintendo,0.59,0.24,1.68,,,,,
+Sid Meier's Civilization V,8930.0,1079,2010-09-23,Fall,3DS,Role-Playing,Nintendo,0.81,0.23,1.68,,,,,
+Dark Souls III,374320.0,1108,2016-04-11,Spring,2600,Puzzle,Atari,1.54,0.1,1.65,,,,,
+Far Cry 4,298110.0,1126,2014-11-18,Fall,XB,Sports,Sega,1.54,0.02,1.63,93.0,Visual Concepts,,,
+Call of Duty: Black Ops,42700.0,1132,2010-11-09,Fall,PS,Platform,Sony Computer Entertainment,0.71,0.48,1.63,53.0,SCEI,,,
+Max Payne 3,204100.0,1135,,,X360,Simulation,Microsoft Game Studios,0.45,0.95,1.62,131.0,Rare Ltd.,,,
+LEGO Marvel Super Heroes,249130.0,1140,2013-11-15,Fall,PS,Racing,Electronic Arts,0.9,0.61,1.62,,,,,
+Just Cause 2,8190.0,1156,2010-03-23,Spring,PS,Action,Konami Digital Entertainment,0.71,0.48,1.6,326.0,KCET,,,
+Far Cry 2,19900.0,1162,2008-10-22,Fall,GC,Action,Nintendo,1.15,0.36,1.59,568.0,Nintendo,,,
+Wolfenstein: The New Order,201810.0,1209,2014-05-19,Spring,X360,Action,Take-Two Interactive,0.85,0.55,1.55,458.0,2K Czech,,,
+BioShock 2,8850.0,1212,2010-02-09,Winter,PS2,Role-Playing,Sony Computer Entertainment,0.83,0.44,1.54,99.0,Level 5,,,
+Dishonored,205100.0,1225,2012-10-11,Fall,GC,Sports,Nintendo,1.09,0.15,1.53,56.0,Camelot Software Planning,9.99,91,61969
+Call of Duty: Black Ops II,202970.0,1228,2012-11-12,Fall,Wii,Action,Capcom,0.67,0.43,1.52,122.0,Cavia Inc.,59.99,74,20782
+Dead Space 2,47780.0,1244,2011-01-27,Winter,3DS,Role-Playing,GungHo,0.0,0.0,1.51,,,,,
+Batman: Arkham Knight,208650.0,1275,2015-06-23,Summer,PS4,Shooter,Bethesda Softworks,0.54,0.69,1.49,,,,,
+Homefront,55100.0,1313,2011-03-14,Spring,PS2,Action,Capcom,0.37,0.47,1.45,73.0,Capcom,,,
+BioShock,7670.0,1348,2007-08-21,Summer,PS3,Role-Playing,Electronic Arts,0.63,0.56,1.42,1849.0,BioWare,,,
+Dead Space 2,47780.0,1357,2011-01-27,Winter,Wii,Sports,Electronic Arts,0.8,0.47,1.42,34.0,EA Tiburon,,,
+Metal Gear Rising: Revengeance,235460.0,1359,2014-01-09,Winter,GC,Action,Capcom,0.63,0.38,1.42,,,,,
+The Sims 3,47890.0,1369,2009-06-02,Summer,PS,Fighting,Electronic Arts,1.02,0.34,1.41,,,,,
+Far Cry 2,19900.0,1395,2008-10-22,Fall,3DS,Platform,Nintendo,0.48,0.53,1.38,155.0,Arzest,,,
+Ryse: Son of Rome,302510.0,1401,2014-10-10,Fall,XOne,Fighting,Warner Bros. Interactive Entertainment,1.03,0.21,1.38,279.0,"Warner Bros. Interactive Entertainment, NetherRealm Studios",,,
+Mortal Kombat X,307780.0,1402,2015-04-13,Spring,N64,Role-Playing,Nintendo,0.58,0.18,1.38,,,,,
+Rise of the Tomb Raider,391220.0,1404,2016-02-09,Winter,PS,Shooter,Take-Two Interactive,0.77,0.54,1.38,,,,,
+Call of Duty: Black Ops,42700.0,1413,2010-11-09,Fall,PS3,Shooter,Square Enix,0.5,0.59,1.37,682.0,Eidos Montreal,,,
+Middle-Earth: Shadow of Mordor,241930.0,1435,2014-09-30,Fall,PS3,Racing,Sony Computer Entertainment,0.43,0.65,1.35,318.0,Evolution Studios,,,
+Battlefield 4,1238860.0,1438,2013-10-29,Fall,XB,Racing,Vivendi Games,0.7,0.58,1.35,,,,,
+Alan Wake,108710.0,1469,2012-02-16,Winter,GBA,Action,Activision,0.92,0.35,1.33,,,,,
+The Elder Scrolls V: Skyrim,72850.0,1476,2011-11-10,Fall,PS2,Racing,TDK Mediactive,0.65,0.51,1.33,21.0,Steel Monkeys,,,
+The Witcher 3: Wild Hunt,292030.0,1500,2015-05-18,Spring,PS,Adventure,THQ,0.57,0.67,1.31,,,,,
+Assassin's Creed Syndicate,368500.0,1516,2015-11-18,Fall,PS,Role-Playing,Namco Bandai Games,0.56,0.38,1.3,,,,,
+Far Cry 4,298110.0,1518,2014-11-18,Fall,DS,Role-Playing,Nintendo,0.5,0.16,1.29,25.0,Creatures Inc.,,,
+Dying Light,239140.0,1530,2015-01-26,Winter,PC,Role-Playing,Bethesda Softworks,0.51,0.67,1.29,7512.0,Bethesda Game Studios,,,
+Fallout 4,377160.0,1531,2015-11-09,Fall,DS,Platform,Sega,0.69,0.47,1.29,66.0,Dimps Corporation,,,
+The Elder Scrolls Online,306130.0,1537,2014-04-04,Spring,PS2,Role-Playing,Sony Online Entertainment,0.63,0.49,1.28,57.0,Snowblind Studios,,,
+Metal Gear Solid V: Ground Zeroes,311340.0,1560,2014-12-18,Winter,DS,Adventure,Nintendo,0.75,0.39,1.27,,Griptonite Games,,,
+Oddworld: Abe's Oddysee,15700.0,1606,1997-12-12,Winter,PS2,Action,Namco Bandai Games,0.24,0.19,1.24,6.0,Namco,,,
+Bayonetta,460790.0,1669,2017-04-11,Spring,PS,Racing,Electronic Arts,0.67,0.46,1.21,,,,,
+Fallout: New Vegas,22380.0,1732,2010-10-21,Fall,PS,Sports,989 Studios,0.65,0.44,1.17,,,,,
+Spore,17390.0,1738,2008-12-19,Winter,PS,Racing,Psygnosis,0.65,0.44,1.17,,,,,
+Mirror's Edge,17410.0,1745,2009-01-13,Winter,PS3,Platform,Sega,0.41,0.06,1.16,176.0,Sonic Team,,,
+Naruto Shippuden: Ultimate Ninja Storm 4,349040.0,1802,2016-02-04,Winter,XB,Simulation,Microsoft Game Studios,1.01,0.1,1.13,47.0,Day 1 Studios,,,
+Mirror's Edge,17410.0,1811,2009-01-13,Winter,X360,Misc,Activision,0.65,0.37,1.13,108.0,Neversoft Entertainment,,,
+Alien: Isolation,214490.0,1813,2014-10-06,Fall,PS,Misc,Sony Computer Entertainment,0.63,0.43,1.13,,,,,
+Counter-Strike,10.0,1837,2000-11-01,Fall,PS2,Action,Activision,0.63,0.37,1.11,,,,,
+Bully: Scholarship Edition,12200.0,1945,2008-10-21,Fall,PS2,Sports,Electronic Arts,0.52,0.41,1.06,37.0,EA Canada,,,
+Darksiders,50620.0,1958,2010-09-23,Fall,X360,Shooter,Electronic Arts,0.65,0.3,1.06,152.0,Pandemic Studios,,,
+LEGO Marvel Super Heroes,249130.0,1960,2013-11-15,Fall,PS3,Simulation,Sony Computer Entertainment,0.49,0.39,1.06,183.0,Incognito Inc.,,,
+Sleeping Dogs,202170.0,1988,,,PS,Racing,Acclaim Entertainment,0.58,0.39,1.04,,Climax Group,,,
+Brink,22350.0,2002,2011-05-09,Spring,PS2,Racing,THQ,0.86,0.03,1.03,17.0,Rainbow Studios,,,
+Tomb Raider,203160.0,2015,2013-03-04,Spring,PS,Fighting,Virgin Interactive,0.38,0.12,1.03,46.0,Capcom,14.99,86,153623
+Grand Theft Auto: San Andreas,12120.0,2116,2005-06-06,Summer,PS3,Sports,Electronic Arts,0.89,0.0,0.97,33.0,EA Tiburon,,,
+Brutal Legend,225260.0,2119,2013-02-26,Winter,PS3,Action,Disney Interactive Studios,0.49,0.32,0.97,47.0,Avalanche Software,,,
+Far Cry 3,220240.0,2137,2012-11-28,Fall,PS4,Shooter,Take-Two Interactive,0.36,0.41,0.96,894.0,Turtle Rock Studios,,,
+Sniper Elite V2,63380.0,2153,,,XB,Sports,Global Star,0.88,0.04,0.95,22.0,Visual Concepts,,,
+Brutal Legend,225260.0,2201,2013-02-26,Winter,Wii,Sports,Activision,0.69,0.17,0.94,21.0,Buzz Monkey,,,
+Rise of the Tomb Raider,391220.0,2205,2016-02-09,Winter,XB,Action,Ubisoft,0.57,0.33,0.94,72.0,Ubisoft,,,
+Bayonetta,460790.0,2226,2017-04-11,Spring,PS2,Sports,Sony Computer Entertainment,0.77,0.03,0.93,19.0,SCEA,,,
+Borderlands 2,49520.0,2239,2012-09-20,Fall,PS2,Action,Konami Digital Entertainment,0.45,0.35,0.92,31.0,KCE Studios,,,
+South Park: The Stick of Truth,213670.0,2249,2014-03-05,Spring,X360,Role-Playing,Ubisoft,0.58,0.26,0.92,363.0,Obsidian Entertainment,,,
+South Park: The Stick of Truth,213670.0,2250,2014-03-05,Spring,PS,Sports,Electronic Arts,0.51,0.35,0.92,,,,,
+Street Fighter V,310950.0,2291,2016-02-15,Winter,XOne,Action,Square Enix,0.44,0.39,0.9,186.0,Avalanche Studios,,,
+Just Cause 3,225540.0,2292,2015-11-30,Fall,SNES,Racing,ASCII Entertainment,0.0,0.0,0.9,,,,,
+Far Cry 4,298110.0,2298,2014-11-18,Fall,X360,Action,Namco Bandai Games,0.48,0.32,0.9,818.0,CD Projekt Red Studio,,,
+Homefront,55100.0,2300,2011-03-14,Spring,PS,Racing,Psygnosis,0.5,0.34,0.9,,,,,
+The Elder Scrolls Online,306130.0,2304,2014-04-04,Spring,PS,Action,989 Studios,0.5,0.34,0.9,,,,,
+LEGO Marvel Super Heroes,249130.0,2314,2013-11-15,Fall,PS3,Misc,Activision,0.42,0.34,0.9,49.0,FreeStyleGames,,,
+Call of Duty: World at War,10090.0,2342,2008-11-18,Fall,PS3,Sports,Electronic Arts,0.52,0.25,0.89,17.0,Electronic Arts,19.99,83,42754
+Sleeping Dogs,202170.0,2384,,,X360,Role-Playing,Electronic Arts,0.55,0.24,0.87,446.0,Big Huge Games,,,
+Kingdoms of Amalur: Reckoning,102500.0,2385,,,PSP,Strategy,Konami Digital Entertainment,0.32,0.26,0.87,,,,,
+Kingdoms of Amalur: Reckoning,102500.0,2437,,,PS,Action,GT Interactive,0.47,0.32,0.85,,,,,
+The Evil Within,268050.0,2466,2014-10-13,Fall,PS2,Role-Playing,Sony Computer Entertainment,0.24,0.16,0.84,89.0,Level 5,,,
+Sniper Elite V2,63380.0,2471,,,GBA,Adventure,Nintendo,0.6,0.22,0.84,132.0,Nintendo,,,
+DmC: Devil May Cry,220440.0,2588,2013-01-24,Winter,PS,Racing,Take-Two Interactive,0.44,0.3,0.79,6.0,Deibus Studios,,,
+Doom,379720.0,2619,2016-05-12,Spring,X360,Action,Ubisoft,0.67,0.04,0.78,148.0,Ubisoft Shanghai,,,
+The Sims 3,47890.0,2698,2009-06-02,Summer,XB,Fighting,Midway Games,0.61,0.12,0.76,24.0,Midway,,,
+Portal 2,620.0,2704,2011-04-18,Spring,PS3,Shooter,Take-Two Interactive,0.33,0.31,0.76,278.0,"Gearbox Software, 3D Realms",,,
+Titanfall 2,1237970.0,2719,2016-10-28,Fall,PS3,Action,Sony Computer Entertainment,0.18,0.37,0.75,30.0,Game Republic,,,
+Metal Gear Solid V: The Phantom Pain,287700.0,2721,2015-09-01,Fall,X360,Sports,Take-Two Interactive,0.28,0.38,0.75,69.0,Rockstar San Diego,,,
+The Elder Scrolls V: Skyrim,72850.0,2769,2011-11-10,Fall,PS,Racing,Sony Computer Entertainment,0.41,0.28,0.74,,,,,
+LEGO Marvel Super Heroes,249130.0,2779,2013-11-15,Fall,Wii,Misc,Atari,0.68,0.0,0.74,4.0,TOSE,,,
+Brink,22350.0,2807,2011-05-09,Spring,X360,Sports,Electronic Arts,0.61,0.07,0.73,71.0,Electronic Arts,,,
+Borderlands: The Pre-Sequel,261640.0,2848,2014-10-14,Fall,PS4,Action,Disney Interactive Studios,0.24,0.37,0.72,,,,,
+The Witcher 3: Wild Hunt,292030.0,2852,2015-05-18,Spring,X360,Racing,Codemasters,0.11,0.5,0.72,54.0,Codemasters,,,
+Battlefield: Bad Company 2,24960.0,2860,2010-03-02,Spring,X360,Racing,Codemasters,0.23,0.4,0.72,166.0,Codemasters,,,
+XCOM: Enemy Unknown,200510.0,2866,2012-10-11,Fall,PSP,Action,D3Publisher,0.23,0.3,0.71,23.0,High Voltage Software,,,
+Crysis,17300.0,2869,2007-11-13,Fall,PS,Action,Eidos Interactive,0.23,0.15,0.71,47.0,Capcom,,,
+Call of Duty: Ghosts,209160.0,2917,2014-03-25,Spring,PS4,Action,Warner Bros. Interactive Entertainment,0.16,0.43,0.7,91.0,TT Games,59.99,68,11710
+Mafia,40990.0,2924,2002-08-28,Summer,DS,Adventure,Disney Interactive Studios,0.38,0.25,0.7,,n-Space,,,
+Sniper Elite 3,238090.0,2981,2014-06-27,Summer,PS2,Action,Ubisoft,0.57,0.02,0.68,111.0,Ubisoft Montreal,,,
+Wolfenstein: The New Order,201810.0,2992,2014-05-19,Spring,DS,Racing,THQ,0.63,0.0,0.68,5.0,Rainbow Studios,,,
+RIFT,39120.0,2998,2013-10-24,Fall,PS3,Platform,Activision,0.26,0.29,0.67,40.0,Treyarch,,,
+The Evil Within,268050.0,3007,2014-10-13,Fall,PS2,Simulation,Metro 3D,0.22,0.17,0.67,33.0,From Software,,,
+Terraria,105600.0,3015,2011-05-16,Spring,Wii,Shooter,Ubisoft,0.54,0.03,0.67,121.0,Ubisoft Paris,,,
+The Sims 3,47890.0,3024,2009-06-02,Summer,GBA,Action,Disney Interactive Studios,0.48,0.18,0.67,5.0,Amaze Entertainment,,,
+Command & Conquer: Red Alert 3,17480.0,3027,2008-10-28,Fall,DS,Misc,IE Institute,0.0,0.0,0.66,,,,,
+F1 2015,286570.0,3036,2015-07-09,Summer,PS2,Sports,Activision,0.55,0.02,0.66,17.0,Page 44 Studios,,,
+BioShock Infinite,8870.0,3068,2013-03-25,Spring,2600,Action,Activision,0.62,0.04,0.66,,,,,
+Farming Simulator 17,447020.0,3124,2016-10-24,Fall,DS,Simulation,505 Games,0.39,0.19,0.65,,Cooking Mama Limited,,,
+Borderlands 2,49520.0,3128,2012-09-20,Fall,PS2,Action,Electronic Arts,0.13,0.07,0.64,13.0,EA Bright Light,,,
+Metal Gear Solid V: The Phantom Pain,287700.0,3137,2015-09-01,Fall,DS,Puzzle,THQ,0.44,0.14,0.64,22.0,5TH Cell,,,
+Dishonored 2,403640.0,3158,2016-11-11,Fall,DS,Action,THQ,0.3,0.27,0.64,,Altron,,,
+Far Cry 4,298110.0,3187,2014-11-18,Fall,PS2,Role-Playing,Capcom,0.0,0.0,0.63,,,,,
+XCOM: Enemy Unknown,200510.0,3221,2012-10-11,Fall,SNES,Strategy,Tecmo Koei,0.3,0.0,0.62,,,,,
+Half-Life 2,220.0,3299,2004-11-16,Fall,PS,Shooter,GT Interactive,0.34,0.23,0.61,,,,,
+Borderlands: The Pre-Sequel,261640.0,3302,2014-10-14,Fall,X360,Sports,Bethesda Softworks,0.56,0.0,0.61,34.0,Kush Games,,,
+Half-Life,70.0,3347,1998-11-19,Fall,N64,Sports,Konami Digital Entertainment,0.09,0.26,0.6,,,,,
+Total War: Shogun 2,201270.0,3372,2011-03-15,Spring,PS2,Sports,Spike,0.29,0.23,0.6,,Kush Games,,,
+Metal Gear Solid V: Ground Zeroes,311340.0,3417,2014-12-18,Winter,GBA,Simulation,Ubisoft,0.34,0.13,0.59,116.0,TOSE,,,
+Call of Duty: Black Ops,42700.0,3440,2010-11-09,Fall,Wii,Misc,Disney Interactive Studios,0.31,0.23,0.58,,,,,
+Alice: Madness Returns,19680.0,3453,2011-06-17,Summer,3DS,Role-Playing,Atlus,0.28,0.0,0.58,251.0,Atlus,0.99,75,20241
+Payday 2,218620.0,3496,2013-08-13,Summer,PS,Strategy,Namco Bandai Games,0.0,0.0,0.57,,,9.99,79,435036
+XCOM: Enemy Unknown,200510.0,3500,2012-10-11,Fall,Wii,Simulation,Ubisoft,0.52,0.01,0.57,,Ubisoft,29.99,89,38354
+Titanfall 2,1237970.0,3509,2016-10-28,Fall,PS3,Fighting,PQube,0.36,0.1,0.57,112.0,Arc System Works,2.99,86,221901
+Defiance,224600.0,3528,2014-06-04,Summer,PS3,Role-Playing,Nippon Ichi Software,0.27,0.11,0.57,126.0,Nippon Ichi Software,,64,2480
+Resident Evil 2,883710.0,3586,2019-01-24,Winter,SNES,Platform,Laguna,0.09,0.02,0.56,,,9.99,89,115622
+Quantum Break,474960.0,3607,2016-09-29,Fall,PSP,Puzzle,Ignition Entertainment,0.17,0.24,0.56,21.0,Awesome Studios,39.99,66,20659
+Middle-Earth: Shadow of Mordor,241930.0,3610,2014-09-30,Fall,PS2,Shooter,Codemasters,0.27,0.21,0.56,17.0,Pipe Dream Interactive,19.99,84,58279
+Spec Ops: The Line,50300.0,3683,2012-06-29,Summer,XB,Platform,THQ,0.4,0.12,0.54,8.0,Heavy Iron Studios,,76,27836
+LEGO Marvel Super Heroes,249130.0,3877,2013-11-15,Fall,PS2,Action,Eidos Interactive,0.13,0.1,0.51,19.0,Acquire,19.99,78,18198
+DC Universe Online,24200.0,3895,2011-11-02,Fall,DS,Misc,Nintendo,0.0,0.0,0.51,,,,72,215
+Alien: Isolation,214490.0,3910,2014-10-06,Fall,PS,Strategy,Banpresto,0.0,0.0,0.51,,,39.99,81,43415
+Dishonored,205100.0,3920,2012-10-11,Fall,X360,Fighting,Namco Bandai Games,0.36,0.08,0.51,33.0,Spike,9.99,91,61969
+Bully: Scholarship Edition,12200.0,3944,2008-10-21,Fall,X360,Fighting,THQ,0.44,0.03,0.5,46.0,Yuke's,5.24,72,31318
+Hitman: Blood Money,6860.0,3955,2006-05-30,Spring,PS2,Misc,Disney Interactive Studios,0.25,0.19,0.5,,Zoe Mode,9.99,82,11540
+Alice: Madness Returns,19680.0,4006,2011-06-17,Summer,Wii,Sports,Electronic Arts,0.46,0.0,0.49,16.0,EA Canada,0.99,75,20242
+Middle-Earth: Shadow of Mordor,241930.0,4050,2014-09-30,Fall,PS2,Sports,Universal Interactive,0.24,0.19,0.49,10.0,Blitz Games,19.99,84,58279
+Medal of Honor,47830.0,4056,2010-10-12,Fall,3DS,Racing,Ubisoft,0.27,0.16,0.49,24.0,Gameloft,4.99,72,5830
+Far Cry 2,19900.0,4078,2008-10-22,Fall,XB,Sports,Electronic Arts,0.36,0.11,0.48,11.0,EA Tiburon,9.99,85,15203
+Metal Gear Rising: Revengeance,235460.0,4110,2014-01-09,Winter,PS3,Role-Playing,Nippon Ichi Software,0.22,0.1,0.48,,,29.99,83,63917
+The Evil Within,268050.0,4235,2014-10-13,Fall,PS2,Fighting,Atari,0.38,0.01,0.46,29.0,Avalanche Software,19.99,68,18826
+Need for Speed: Hot Pursuit,47870.0,4248,2010-11-16,Fall,PS2,Misc,Sony Computer Entertainment,0.22,0.18,0.46,,,,86,17403
+Command & Conquer: Red Alert 3,17480.0,4313,2008-10-28,Fall,X360,Shooter,Activision,0.3,0.11,0.45,26.0,Nerve Software,,82,13477
+Red Faction: Armageddon,55110.0,4325,2011-06-09,Summer,PS2,Action,THQ,0.22,0.17,0.45,,,19.99,75,2487
+Wolfenstein: The New Order,201810.0,4365,2014-05-19,Spring,PS3,Action,Activision,0.23,0.14,0.45,221.0,High Moon Studios,19.99,81,41029
+Wolfenstein: The New Order,201810.0,4392,2014-05-19,Spring,PS4,Action,Activision,0.19,0.18,0.44,32.0,Toys for Bob,19.99,81,41029
+DmC: Devil May Cry,220440.0,4436,2013-01-24,Winter,GBA,Action,THQ,0.31,0.12,0.44,,Artificial Mind and Movement,29.99,85,18151
+Sleeping Dogs,202170.0,4483,,,PS2,Action,Disney Interactive Studios,0.36,0.01,0.43,17.0,Traveller's Tales,,80,10073
+Payday 2,218620.0,4506,2013-08-13,Summer,X360,Sports,Take-Two Interactive,0.27,0.12,0.43,25.0,Yuke's,9.99,79,435036
+Max Payne 3,204100.0,4527,,,DS,Action,THQ,0.25,0.14,0.43,,Game Machine Studios,5.99,87,47310
+Spec Ops: The Line,50300.0,4635,2012-06-29,Summer,Wii,Sports,Unknown,0.39,0.0,0.42,7.0,EA Sports,,76,27836
+Farming Simulator 17,447020.0,4677,2016-10-24,Fall,PS,Sports,Konami Digital Entertainment,0.0,0.0,0.41,,,14.99,69,22124
+Terraria,105600.0,4686,2011-05-16,Spring,XOne,Action,Warner Bros. Interactive Entertainment,0.22,0.15,0.41,27.0,Traveller's Tales,9.99,83,1105424
+Call of Duty: Black Ops II,202970.0,4707,2012-11-12,Fall,N64,Role-Playing,Nintendo,0.1,0.02,0.41,,,59.99,74,20782
+BioShock,7670.0,4711,2007-08-21,Summer,PS2,Action,Atari,0.2,0.16,0.41,18.0,Paradigm Entertainment,19.99,96,23860
+Dishonored,205100.0,4887,2012-10-11,Fall,XOne,Role-Playing,Namco Bandai Games,0.26,0.09,0.39,514.0,From Software,9.99,91,61969
+Dark Souls III,374320.0,4888,2016-04-11,Spring,X360,Sports,Electronic Arts,0.27,0.09,0.39,24.0,EA Canada,59.99,89,258694
+The Darkness II,67370.0,4933,2012-02-09,Winter,PS2,Platform,Vivendi Games,0.19,0.15,0.39,6.0,Eurocom Entertainment Software,29.99,77,7084
+Hitman: Blood Money,6860.0,4936,2006-05-30,Spring,SNES,Sports,Namco Bandai Games,0.0,0.0,0.39,,,9.99,82,11540
+Red Faction: Armageddon,55110.0,4956,2011-06-09,Summer,GBA,Sports,Electronic Arts,0.28,0.1,0.39,9.0,Magic Pockets,19.99,75,2487
+Wolfenstein: The New Order,201810.0,4996,2014-05-19,Spring,PS,Strategy,Namco Bandai Games,0.0,0.0,0.38,,,19.99,81,41029
+Battlefield 1,1238840.0,5001,2016-10-20,Fall,GC,Sports,Electronic Arts,0.29,0.08,0.38,45.0,EA Canada,1.99,,159796
+Risk: Global Domination,1128810.0,5008,2020-02-19,Winter,PS4,Role-Playing,Square Enix,0.11,0.21,0.38,511.0,Eidos Montreal,,,130
+Deus Ex: Mankind Divided,337000.0,5009,2016-08-23,Summer,PS,Action,Namco Bandai Games,0.0,0.0,0.38,,,29.99,83,29332
+Saints Row: The Third,55230.0,5019,2011-11-17,Fall,DS,Adventure,Capcom,0.17,0.07,0.38,127.0,Capcom,9.99,84,47911
+LEGO Marvel Super Heroes,249130.0,5055,2013-11-15,Fall,PS2,Fighting,THQ,0.24,0.07,0.38,12.0,Yuke's,19.99,78,18198
+Need for Speed: Hot Pursuit,47870.0,5092,2010-11-16,Fall,PS2,Action,Midway Games,0.18,0.14,0.37,15.0,"Pipeworks Software, Inc.",,86,17403
+Rocket League,252950.0,5121,2015-07-07,Summer,Wii,Sports,Take-Two Interactive,0.34,0.0,0.37,14.0,Blue Castle Games,,86,433644
+DiRT Rally,310560.0,5132,2015-12-07,Winter,PSP,Sports,Electronic Arts,0.34,0.0,0.37,14.0,EA Tiburon,,86,20612
+Sid Meier's Civilization: Beyond Earth,65980.0,5166,2014-10-23,Fall,PS3,Sports,Electronic Arts,0.21,0.09,0.36,45.0,EA Sports,39.99,81,13584
+Left 4 Dead 2,550.0,5171,2009-11-16,Fall,Wii,Misc,MTV Games,0.22,0.11,0.36,11.0,Harmonix Music Systems,9.99,89,721558
+Middle-Earth: Shadow of Mordor,241930.0,5258,2014-09-30,Fall,PS2,Role-Playing,Konami Digital Entertainment,0.08,0.06,0.35,109.0,Konami,19.99,84,58279
+Defiance,224600.0,5306,2014-06-04,Summer,X360,Shooter,Warner Bros. Interactive Entertainment,0.13,0.18,0.35,53.0,GRIN,,64,2480
+Sniper Elite 3,238090.0,5322,2014-06-27,Summer,DS,Misc,Nobilis,0.32,0.0,0.35,,,29.99,,20218
+Tropico 4,57690.0,5327,2011-09-01,Fall,PS2,Sports,Konami Digital Entertainment,0.0,0.0,0.35,,,14.99,78,7960
+Call of Duty: Ghosts,209160.0,5349,2014-03-25,Spring,PS3,Action,Activision,0.11,0.18,0.34,27.0,High Moon Studios,59.99,68,11710
+Supreme Commander 2,40100.0,5373,2010-03-01,Spring,PS2,Simulation,Eidos Interactive,0.17,0.13,0.34,7.0,Core Design Ltd.,3.24,77,7896
+Company of Heroes 2,231430.0,5380,2013-06-25,Summer,Wii,Simulation,Nintendo,0.28,0.01,0.34,47.0,Atlus,19.99,80,65870
+Sniper: Ghost Warrior 2,34870.0,5474,2013-03-11,Spring,GBA,Action,Activision,0.24,0.09,0.33,,"Amaze Entertainment, Griptonite Games",9.99,52,13011
+Alien: Isolation,214490.0,5529,2014-10-06,Fall,PS2,Action,Tecmo Koei,0.0,0.0,0.33,,,39.99,81,43415
+Dead Space 2,47780.0,5568,2011-01-27,Winter,N64,Sports,Acclaim Entertainment,0.3,0.02,0.32,,,3.99,87,21689
+Prey,480490.0,5641,2017-05-04,Spring,GBA,Adventure,BAM! Entertainment,0.23,0.08,0.32,,,29.99,,34179
+The Darkness II,67370.0,5650,2012-02-09,Winter,XB,Sports,Sega,0.24,0.07,0.32,9.0,Visual Concepts,29.99,77,7084
+Rise of the Tomb Raider,391220.0,5673,2016-02-09,Winter,SNES,Misc,Hudson Soft,0.0,0.0,0.32,,,29.99,86,108714
+Batman: Arkham Origins,209000.0,5704,2013-10-24,Fall,PS,Sports,Sony Computer Entertainment,0.17,0.12,0.31,,,19.99,74,38468
+Batman: Arkham Origins,209000.0,5731,2013-10-24,Fall,3DS,Action,Namco Bandai Games,0.0,0.0,0.31,,,19.99,74,38470
+Tropico 5,245620.0,5747,2014-05-23,Spring,PS,Action,Take-Two Interactive,0.17,0.12,0.31,8.0,Wildfire Studios,19.99,75,9593
+DmC: Devil May Cry,220440.0,5817,2013-01-24,Winter,PS2,Action,Sony Computer Entertainment,0.15,0.12,0.31,4.0,High Voltage Software,29.99,85,18151
+Kingdoms of Amalur: Reckoning,102500.0,5839,,,PS,Platform,Sony Computer Entertainment,0.05,0.03,0.3,,,,81,11817
+Naruto Shippuden: Ultimate Ninja Storm 4,349040.0,5850,2016-02-04,Winter,GBA,Misc,Nintendo,0.0,0.0,0.3,,,19.99,,70134
+Sniper Elite 3,238090.0,5862,2014-06-27,Summer,PS2,Strategy,Banpresto,0.0,0.0,0.3,,,29.99,,20218
+Borderlands: The Pre-Sequel,261640.0,6024,2014-10-14,Fall,XB,Sports,Electronic Arts,0.22,0.06,0.29,4.0,EA Tiburon,39.99,75,29947
+Metal Gear Solid V: Ground Zeroes,311340.0,6050,2014-12-18,Winter,PC,Simulation,Electronic Arts,0.01,0.24,0.29,268.0,Maxis,19.99,80,12465
+World of Tanks,1407200.0,6079,2021-04-28,Spring,XB,Sports,Microsoft Game Studios,0.21,0.06,0.29,9.0,Indie Built,,80,471
+Payday 2,218620.0,6174,2013-08-13,Summer,PS2,Sports,Midway Games,0.14,0.11,0.28,15.0,Midway,9.99,79,435036
+Alien: Isolation,214490.0,6184,2014-10-06,Fall,Wii,Action,Warner Bros. Interactive Entertainment,0.2,0.05,0.28,,,39.99,81,43415
+Sniper Elite 3,238090.0,6193,2014-06-27,Summer,WiiU,Action,Nintendo,0.17,0.0,0.28,133.0,Indies Zero,29.99,,20218
+The Evil Within,268050.0,6277,2014-10-13,Fall,PC,Action,Electronic Arts,0.09,0.16,0.27,60.0,BioWare,19.99,68,18826
+Tropico 4,57690.0,6381,2011-09-01,Fall,X360,Sports,Take-Two Interactive,0.18,0.08,0.27,21.0,Blue Castle Games,14.99,78,7960
+The Bureau: XCOM Declassified,65930.0,6692,,,PS2,Sports,Sega,0.12,0.1,0.25,19.0,Blue Shift,19.99,66,4671
+The Walking Dead: Season Two,261030.0,6756,2013-12-17,Winter,Wii,Action,Electronic Arts,0.2,0.02,0.25,,EA Bright Light,14.99,80,24422
+F1 2015,286570.0,6760,2015-07-09,Summer,DS,Misc,Activision,0.23,0.0,0.25,,Endemol,,61,1280
+Hitman: Absolution,203140.0,6770,2012-11-19,Fall,3DS,Role-Playing,Atlus,0.16,0.01,0.24,82.0,"Image Epoch, Imageepoch",19.99,79,41529
+Homefront,55100.0,6812,2011-03-14,Spring,XB,Racing,TDK Mediactive,0.18,0.05,0.24,12.0,Steel Monkeys,19.99,70,3656
+BioShock 2,8850.0,6820,2010-02-09,Winter,PSP,Role-Playing,GungHo,0.19,0.0,0.24,47.0,Game Arts,19.99,88,10855
+Total War: Attila,325610.0,6830,2015-02-17,Winter,XB,Action,Microsoft Game Studios,0.18,0.05,0.24,14.0,Adrenium,44.99,80,24611
+Rocket League,252950.0,6893,2015-07-07,Summer,PS2,Misc,Sony Computer Entertainment,0.12,0.09,0.24,14.0,Idol Minds,,86,433644
+DC Universe Online,24200.0,6941,2011-11-02,Fall,PS3,Action,Activision,0.19,0.03,0.23,5.0,Now Production,,72,215
+XCOM 2,268500.0,6997,2016-02-04,Winter,SAT,Role-Playing,Kadokawa Shoten,0.0,0.0,0.23,,,59.99,88,72775
+Mafia,40990.0,7027,2002-08-28,Summer,PS3,Sports,Electronic Arts,0.09,0.1,0.23,17.0,EA Sports,14.99,88,8161
+Spec Ops: The Line,50300.0,7106,2012-06-29,Summer,PS3,Action,Namco Bandai Games,0.0,0.09,0.23,34.0,Dimps Corporation,,76,27836
+Dishonored 2,403640.0,7235,2016-11-11,Fall,PSV,Action,Ubisoft,0.13,0.06,0.22,28.0,Ubisoft,29.99,86,39489
+The Bureau: XCOM Declassified,65930.0,7340,,,PC,Shooter,LucasArts,0.07,0.13,0.21,1509.0,EA DICE,19.99,66,4671
+Assassin's Creed Syndicate,368500.0,7385,2015-11-18,Fall,DS,Action,Disney Interactive Studios,0.19,0.01,0.21,,Fall Line Studio,29.99,74,27330
+Defiance,224600.0,7468,2014-06-04,Summer,XB,Sports,Electronic Arts,0.15,0.04,0.21,12.0,EA Sports,,64,2480
+Sniper: Ghost Warrior 2,34870.0,7520,2013-03-11,Spring,PC,Role-Playing,CCP,0.0,0.19,0.2,280.0,CCP,9.99,52,13011
+EVE Online,8500.0,7521,2003-05-06,Spring,DC,Role-Playing,Sega,0.0,0.0,0.2,33.0,Sonic Team,,88,7595
+Zombie Army Trilogy,301640.0,7541,2015-03-06,Spring,X360,Adventure,Ubisoft,0.1,0.08,0.2,,,44.99,72,13367
+Sleeping Dogs,202170.0,7634,,,SAT,Shooter,Sega,0.0,0.0,0.2,,,,80,10073
+Dying Light,239140.0,7641,2015-01-26,Winter,PS2,Sports,Activision Value,0.1,0.08,0.2,,Activision,8.99,87,337597
+Supreme Commander 2,40100.0,7808,2010-03-01,Spring,Wii,Adventure,THQ,0.17,0.01,0.19,,,3.24,77,7896
+Quake,2310.0,7832,1996-06-22,Summer,X360,Action,THQ,0.15,0.03,0.19,,,9.99,94,12025
+South Park: The Stick of Truth,213670.0,7840,2014-03-05,Spring,DS,Adventure,Namco Bandai Games,0.0,0.0,0.19,,,29.99,,55106
+The Walking Dead: Season Two,261030.0,7890,2013-12-17,Winter,XB,Action,Electronic Arts,0.14,0.04,0.19,10.0,EA Games,14.99,80,24422
+Metal Gear Solid V: The Phantom Pain,287700.0,8032,2015-09-01,Fall,XB,Misc,Infogrames,0.14,0.04,0.18,,,19.99,91,65938
+Call of Duty: World at War,10090.0,8039,2008-11-18,Fall,PS3,Adventure,Ubisoft,0.11,0.05,0.18,13.0,Telltale Games,19.99,83,42754
+Brink,22350.0,8131,2011-05-09,Spring,GC,Sports,Electronic Arts,0.14,0.04,0.18,9.0,EA Sports,,70,1963
+Payday 2,218620.0,8142,2013-08-13,Summer,Wii,Adventure,Activision,0.08,0.08,0.18,,Activision,9.99,79,435036
+Deus Ex: Mankind Divided,337000.0,8341,2016-08-23,Summer,PS,Role-Playing,Panther Software,0.02,0.02,0.17,,,29.99,83,29332
+LEGO Marvel Super Heroes,249130.0,8371,2013-11-15,Fall,X360,Racing,Activision,0.15,0.0,0.17,,,19.99,78,18198
+Resident Evil,304240.0,8450,2015-01-19,Winter,DS,Misc,IE Institute,0.0,0.0,0.17,,,4.99,82,19447
+Phantasy Star Online 2,1056640.0,8468,2020-08-05,Summer,PS2,Racing,Atari,0.08,0.06,0.16,,,,,
+Darksiders,50620.0,8841,2010-09-23,Fall,SAT,Sports,Sega,0.0,0.0,0.15,,,,83,8082
+Dishonored,205100.0,8882,2012-10-11,Fall,GC,Action,Namco Bandai Games,0.11,0.03,0.15,,,9.99,91,61969
+Terraria,105600.0,8993,2011-05-16,Spring,3DS,Sports,Kadokawa Shoten,0.0,0.0,0.14,,,9.99,83,1105424
+Alien: Isolation,214490.0,9037,2014-10-06,Fall,PSP,Action,Electronic Arts,0.11,0.02,0.14,,Double Helix Games,39.99,81,43415
+Just Cause 3,225540.0,9039,2015-11-30,Fall,PS2,Adventure,THQ,0.07,0.05,0.14,,Artificial Mind and Movement,2.99,74,98427
+Doom,379720.0,9072,2016-05-12,Spring,DS,Puzzle,Astragon,0.09,0.04,0.14,,,19.99,85,137906
+Hitman: Blood Money,6860.0,9082,2006-05-30,Spring,PS,Role-Playing,SquareSoft,0.0,0.0,0.14,,,9.99,82,11540
+Metal Gear Solid V: Ground Zeroes,311340.0,9088,2014-12-18,Winter,PSP,Sports,Sony Computer Entertainment,0.13,0.0,0.14,4.0,Page 44 Studios,19.99,80,12466
+XCOM 2,268500.0,9119,2016-02-04,Winter,DS,Role-Playing,Tomy Corporation,0.0,0.0,0.14,,,59.99,88,72775
+Cities: Skylines,255710.0,9137,2015-03-10,Spring,DS,Misc,THQ,0.13,0.0,0.14,,5TH Cell,2.99,85,202788
+The Walking Dead: Season Two,261030.0,9158,2013-12-17,Winter,Wii,Misc,SouthPeak Games,0.1,0.02,0.14,7.0,TopWare Interactive,14.99,80,24422
+Just Cause,6880.0,9177,2006-09-22,Fall,Wii,Racing,Activision,0.13,0.0,0.14,9.0,Eutechnyx,0.97,75,4160
+Enclave,253980.0,9195,2003-03-10,Spring,XB,Strategy,Take-Two Interactive,0.11,0.03,0.14,,,9.99,71,1743
+7 Days to Die,251570.0,9199,2024-07-25,Summer,PSV,Platform,Ubisoft,0.01,0.1,0.14,159.0,Ubisoft Montpellier,44.99,,249503
+The Darkness II,67370.0,9210,2012-02-09,Winter,PC,Strategy,Ubisoft,0.02,0.1,0.14,6.0,Ensemble Studios,29.99,77,7084
+Dragon Age: Origins - Ultimate Edition,47810.0,9227,2010-10-26,Fall,Wii,Misc,Electronic Arts,0.13,0.0,0.14,,Full Fat,5.99,91,25441
+DmC: Devil May Cry,220440.0,9234,2013-01-24,Winter,X360,Action,Activision,0.11,0.02,0.14,10.0,Etranges Libellules,29.99,85,18151
+Call of Duty: Infinite Warfare,292730.0,9294,2016-11-03,Fall,GBA,Platform,Disney Interactive Studios,0.1,0.04,0.14,,Culture Brain,59.99,73,15634
+Euro Truck Simulator 2,227300.0,9412,2012-10-18,Fall,DS,Action,Activision,0.12,0.0,0.13,,,19.99,79,672280
+Total War: WARHAMMER,364360.0,9435,2016-05-24,Spring,DS,Misc,Capcom,0.0,0.0,0.13,,,59.99,86,32083
+Batman: Arkham Knight,208650.0,9462,2015-06-23,Summer,DS,Platform,Disney Interactive Studios,0.11,0.01,0.13,4.0,Artificial Mind and Movement,19.99,,93669
+Resident Evil,304240.0,9649,2015-01-19,Winter,SAT,Platform,Sega,0.0,0.0,0.12,,,4.99,82,19447
+Just Cause 2,8190.0,9658,2010-03-23,Spring,3DS,Platform,Sega,0.07,0.04,0.12,16.0,Zoe Mode,1.49,84,40121
+DiRT Rally,310560.0,9670,2015-12-07,Winter,PS3,Sports,Take-Two Interactive,0.11,0.0,0.12,5.0,Kush Games,,86,20612
+Sleeping Dogs,202170.0,9676,,,PSV,Action,Namco Bandai Games,0.0,0.0,0.12,,,,80,10073
+Rise of the Tomb Raider,391220.0,9800,2016-02-09,Winter,PSP,Action,Warner Bros. Interactive Entertainment,0.07,0.02,0.12,,TT Fusion,29.99,86,108714
+Farming Simulator 17,447020.0,9815,2016-10-24,Fall,PC,Action,Bethesda Softworks,0.04,0.07,0.12,383.0,Arkane Studios,14.99,69,22124
+Dishonored 2,403640.0,9816,2016-11-11,Fall,X360,Racing,Activision,0.11,0.0,0.12,,Firebrand Games,29.99,86,39489
+Psychonauts,3830.0,9888,2005-04-19,Spring,PS3,Role-Playing,Namco Bandai Games,0.0,0.0,0.12,,,9.99,87,11021
+Alice: Madness Returns,19680.0,9907,2011-06-17,Summer,PS2,Adventure,Activision,0.06,0.04,0.12,,"Human Soft, Ivolgamus",0.99,75,20242
+Tropico 5,245620.0,9948,2014-05-23,Spring,PSP,Role-Playing,Namco Bandai Games,0.0,0.0,0.12,,,19.99,75,9593
+Grand Theft Auto: San Andreas,12120.0,10313,2005-06-06,Summer,X360,Action,THQ,0.07,0.03,0.11,,,,93,69735
+Zombie Army Trilogy,301640.0,10318,2015-03-06,Spring,PS3,Action,Warner Bros. Interactive Entertainment,0.09,0.0,0.11,,,44.99,72,13367
+Terraria,105600.0,10578,2011-05-16,Spring,PS2,Misc,Activision,0.05,0.04,0.1,,Neversoft Entertainment,9.99,83,1105424
+The Walking Dead: Season Two,261030.0,10729,2013-12-17,Winter,PS4,Action,Ubisoft,0.0,0.08,0.1,50.0,Ivory Tower,14.99,80,24422
+The Walking Dead: Season Two,261030.0,10732,2013-12-17,Winter,XB,Racing,Activision,0.07,0.02,0.1,,Left Field Productions,14.99,80,24422
+Burnout Paradise: The Ultimate Box,24740.0,10875,2009-02-03,Winter,DS,Action,Blast! Entertainment Ltd,0.09,0.0,0.09,,,,87,8795
+X-COM: UFO Defense,7760.0,10893,1993-12-31,Winter,PS2,Shooter,Konami Digital Entertainment,0.05,0.04,0.09,13.0,Treasure,4.99,,3003
+Psychonauts,3830.0,10910,2005-04-19,Spring,Wii,Action,Game Factory,0.07,0.01,0.09,8.0,The Game Factory,9.99,87,11021
+Football Manager 2017,482730.0,10965,2016-11-03,Fall,PS,Strategy,Time Warner Interactive,0.05,0.03,0.09,,,,80,7793
+Terraria,105600.0,11170,2011-05-16,Spring,PSP,Racing,Activision,0.08,0.0,0.09,4.0,Activision,9.99,83,1105424
+Red Faction: Armageddon,55110.0,11221,2011-06-09,Summer,Wii,Misc,Rising Star Games,0.06,0.02,0.09,18.0,Gaijin Games,19.99,75,2487
+Counter-Strike: Source,240.0,11289,2004-11-01,Fall,PSP,Puzzle,Konami Digital Entertainment,0.07,0.0,0.08,,Konami,9.99,88,124863
+Titanfall 2,1237970.0,11452,2016-10-28,Fall,X360,Fighting,Atlus,0.06,0.01,0.08,35.0,Arc System Works,2.99,86,221901
+Sniper: Ghost Warrior 2,34870.0,11497,2013-03-11,Spring,X360,Fighting,Rising Star Games,0.07,0.01,0.08,12.0,K2 LLC,9.99,52,13011
+Resident Evil 6,221040.0,11585,2013-03-22,Spring,PS2,Role-Playing,Square Enix,0.03,0.03,0.08,,Square Enix,4.99,69,38461
+Metal Gear Solid V: The Phantom Pain,287700.0,11660,2015-09-01,Fall,PS2,Role-Playing,Flight-Plan,0.0,0.0,0.08,,,19.99,91,65938
+Torchlight,41500.0,11820,2009-10-27,Fall,PSP,Platform,Namco Bandai Games,0.07,0.0,0.07,4.0,Blitz Games,14.99,83,5063
+Dark Souls III,374320.0,11893,2016-04-11,Spring,3DS,Simulation,Ubisoft,0.07,0.0,0.07,,Digital Kids,59.99,89,258694
+Burnout Paradise: The Ultimate Box,24740.0,11980,2009-02-03,Winter,XB,Action,Atari,0.05,0.02,0.07,,,,87,8795
+Resident Evil 5,21690.0,12201,2009-09-15,Fall,GBA,Action,Activision,0.05,0.02,0.07,6.0,WayForward,4.99,86,33948
+Terraria,105600.0,12230,2011-05-16,Spring,GC,Sports,Activision,0.05,0.01,0.07,9.0,MagicWand,9.99,83,1105424
+Alan Wake,108710.0,12277,2012-02-16,Winter,PSV,Role-Playing,Gust,0.0,0.0,0.06,,,14.99,83,35680
+Assetto Corsa,244210.0,12393,2014-12-19,Winter,Wii,Sports,Take-Two Interactive,0.06,0.0,0.06,19.0,Visual Concepts,4.99,85,114045
+Call of Duty 2,2630.0,12531,2005-10-25,Fall,DS,Shooter,SouthPeak Games,0.05,0.0,0.06,26.0,Arkedo Studio,19.99,86,8113
+S.T.A.L.K.E.R.: Call of Pripyat,41700.0,12574,2010-02-11,Winter,XB,Racing,Bethesda Softworks,0.04,0.01,0.06,,Bethesda Softworks,19.99,80,24160
+Resident Evil 2,883710.0,12707,2019-01-24,Winter,DS,Puzzle,Konami Digital Entertainment,0.05,0.0,0.06,,Hudson,9.99,89,115624
+Street Fighter V,310950.0,12721,2016-02-15,Winter,WiiU,Action,Activision,0.03,0.02,0.06,,,9.99,89,27272
+S.T.A.L.K.E.R.: Shadow of Chernobyl,4500.0,12744,2007-03-20,Spring,DS,Shooter,Majesco Entertainment,0.05,0.0,0.06,19.0,Shin'en,19.99,82,36767
+Tropico 5,245620.0,12753,2014-05-23,Spring,DS,Action,Konami Digital Entertainment,0.03,0.02,0.06,6.0,Powerhead Games,19.99,75,9593
+Rocket League,252950.0,12836,2015-07-07,Summer,X360,Action,Tecmo Koei,0.0,0.04,0.06,,,,86,433644
+Mirror's Edge,17410.0,12847,2009-01-13,Winter,PC,Role-Playing,THQ,0.01,0.04,0.06,387.0,Iron Lore Entertainment,2.99,81,29383
+Gothic 3,39500.0,12860,2006-10-13,Fall,Wii,Puzzle,SouthPeak Games,0.05,0.0,0.05,,,19.99,63,8224
+7 Days to Die,251570.0,12865,2024-07-25,Summer,DS,Misc,UFO Interactive,0.05,0.0,0.05,,UFO Interactive,44.99,,249503
+Hearts of Iron IV,394360.0,12893,2016-06-06,Summer,GBA,Simulation,"Destination Software, Inc",0.04,0.01,0.05,7.0,Raylight Studios,49.99,83,241515
+F1 2015,286570.0,13011,2015-07-09,Summer,SCD,Misc,Sega,0.0,0.0,0.05,,,,61,1280
+Mortal Kombat X,307780.0,13049,2015-04-13,Spring,DS,Fighting,Hudson Soft,0.0,0.0,0.05,,,19.99,84,35466
+The Bureau: XCOM Declassified,65930.0,13094,,,Wii,Action,Oxygen Interactive,0.05,0.0,0.05,,Gameinvest,19.99,66,4671
+Payday 2,218620.0,13223,2013-08-13,Summer,PS2,Racing,Global Star,0.02,0.02,0.05,,Eutechnyx,9.99,79,435036
+Far Cry,13520.0,13362,2004-03-23,Spring,Wii,Platform,Crave Entertainment,0.04,0.0,0.05,,Frame Studios Interactive,9.99,89,9299
+XCOM 2,268500.0,13415,2016-02-04,Winter,X360,Action,Tecmo Koei,0.03,0.01,0.05,43.0,"Spark Unlimited, comcept",59.99,88,72775
+Company of Heroes,228200.0,13432,2006-09-11,Fall,PSP,Adventure,Comfort,0.0,0.0,0.05,,,19.99,93,10921
+Resident Evil 6,221040.0,13479,2013-03-22,Spring,DS,Platform,Unknown,0.0,0.04,0.05,,,4.99,69,38461
+Mafia,40990.0,13520,2002-08-28,Summer,GC,Platform,Ubisoft,0.03,0.01,0.04,4.0,Ubisoft Montreal,14.99,88,8161
+Resident Evil 6,221040.0,13677,2013-03-22,Spring,PSV,Adventure,Kadokawa Games,0.0,0.0,0.04,,,4.99,69,38461
+Stellaris,281990.0,13746,2016-05-09,Spring,PSP,Adventure,Idea Factory,0.0,0.0,0.04,,,39.99,78,127587
+Terraria,105600.0,13789,2011-05-16,Spring,3DS,Adventure,Happinet,0.0,0.0,0.04,,,9.99,83,1105424
+Company of Heroes: Opposing Fronts,9340.0,13791,2007-09-27,Fall,X360,Shooter,Alchemist,0.0,0.0,0.04,,,19.99,87,751
+Grand Theft Auto: Vice City,12110.0,13877,2003-05-13,Spring,3DS,Misc,FuRyu,0.0,0.0,0.04,,,,94,23888
+APB Reloaded,113400.0,14014,2011-12-06,Winter,GBA,Shooter,Ubisoft,0.03,0.01,0.04,,Red Storm Entertainment,,,354
+Saints Row 2,9480.0,14061,2009-01-28,Winter,PS3,Role-Playing,Ubisoft,0.0,0.0,0.04,,,9.99,72,11704
+S.T.A.L.K.E.R.: Clear Sky,20510.0,14122,2008-09-15,Fall,XB,Role-Playing,THQ,0.03,0.01,0.04,,,9.99,75,17126
+Burnout Paradise: The Ultimate Box,24740.0,14175,2009-02-03,Winter,PSP,Action,Namco Bandai Games,0.0,0.0,0.03,,,,87,8795
+Hitman: Blood Money,6860.0,14207,2006-05-30,Spring,DS,Adventure,D3Publisher,0.0,0.0,0.03,,,9.99,82,11540
+Prey,480490.0,14294,2017-05-04,Spring,PS3,Adventure,Prototype,0.0,0.0,0.03,,,29.99,,34180
+Deus Ex: Mankind Divided,337000.0,14342,2016-08-23,Summer,PSV,Strategy,Namco Bandai Games,0.0,0.0,0.03,,,29.99,83,29332
+The Binding of Isaac,113200.0,14380,2011-09-28,Fall,SAT,Role-Playing,Compile,0.0,0.0,0.03,,,4.99,84,46529
+DiRT Rally,310560.0,14403,2015-12-07,Winter,PC,Racing,Ubisoft,0.0,0.03,0.03,97.0,RedLynx,,86,20612
+Prison Architect,233450.0,14407,2015-10-06,Fall,PC,Adventure,Focus Home Interactive,0.0,0.03,0.03,,,29.99,83,58184
+Terraria,105600.0,14574,2011-05-16,Spring,DS,Misc,Hudson Soft,0.0,0.0,0.03,,,9.99,83,1105401
+Doom,379720.0,14613,2016-05-12,Spring,XB,Strategy,Capcom,0.02,0.01,0.03,,Atomic Planet Entertainment,19.99,85,137915
+Resident Evil 4,2050650.0,14659,2023-03-23,Spring,PS2,Shooter,Namco Bandai Games,0.01,0.01,0.03,,Natsume,19.99,91,111301
+World of Tanks,1407200.0,14688,2021-04-28,Spring,PC,Action,Disney Interactive Studios,0.03,0.0,0.03,17.0,Traveller's Tales,,80,471
+The Talos Principle,257510.0,14711,2014-12-11,Winter,GBA,Fighting,ESP,0.0,0.0,0.03,,,,,
+Braid,26800.0,14717,2009-04-10,Spring,3DS,Action,Rocket Company,0.0,0.0,0.03,,,,,
+Magicka,42910.0,14859,2011-01-25,Winter,PC,Misc,Namco Bandai Games,0.0,0.02,0.03,,,,,
+Bully: Scholarship Edition,12200.0,14907,2008-10-21,Fall,PS2,Sports,505 Games,0.01,0.01,0.03,,,,,
+Star Trek Online,9900.0,15173,2010-02-02,Winter,PSP,Action,Konami Digital Entertainment,0.0,0.0,0.02,,,,,
+Left 4 Dead,500.0,15294,2008-11-17,Fall,DS,Platform,Unknown,0.02,0.0,0.02,,Climax Entertainment,,,
+Dungeon Defenders,65800.0,15325,2011-10-18,Fall,DS,Misc,Square Enix,0.0,0.0,0.02,,,,,
+Sniper Elite V2,63380.0,15380,,,PS2,Adventure,Idea Factory,0.0,0.0,0.02,,,,,
+Mount & Blade: Warband,48700.0,15576,2010-03-31,Spring,GBA,Strategy,Titus,0.01,0.01,0.02,,Titus Software,,,
+Darksiders,50620.0,15652,2010-09-23,Fall,PC,Strategy,Atari,0.0,0.02,0.02,4.0,Deep Red,,,
+Pillars of Eternity,291650.0,15677,2015-03-26,Spring,PS2,Sports,Unknown,0.01,0.01,0.02,,,,,
+This War of Mine,282070.0,15793,2014-11-14,Fall,DS,Puzzle,Crave Entertainment,0.02,0.0,0.02,,Crave,,,
+Just Cause,6880.0,15873,2006-09-22,Fall,XB,Shooter,Global Star,0.01,0.0,0.02,5.0,Team 17,,,
+Quantum Break,474960.0,16028,2016-09-29,Fall,PSP,Misc,Konami Digital Entertainment,0.01,0.0,0.02,6.0,Konami,,,
+Just Cause,6880.0,16053,2006-09-22,Fall,PSP,Adventure,Kadokawa Shoten,0.0,0.0,0.02,,,,,
+Assetto Corsa,244210.0,16069,2014-12-19,Winter,PS2,Racing,Black Bean Games,0.01,0.01,0.02,,Milestone S.r.l,,,
+Grand Theft Auto III,12100.0,16194,2002-05-21,Spring,PS2,Adventure,Idea Factory,0.0,0.0,0.01,,,,,
+Sherlock Holmes: The Devil's Daughter,350640.0,16284,2016-06-10,Summer,PSP,Adventure,Kadokawa Games,0.0,0.0,0.01,,,,,
+Goat Simulator,265930.0,16397,2014-04-01,Spring,PSP,Adventure,Idea Factory,0.0,0.0,0.01,,,,,
+Sherlock Holmes: The Devil's Daughter,350640.0,16504,2016-06-10,Summer,PS4,Adventure,PQube,0.0,0.0,0.01,11.0,Kadokawa,,,
+Dungeons 2,262280.0,16531,2015-04-24,Spring,PSP,Adventure,Russel,0.0,0.0,0.01,,,,,
+Prison Architect,233450.0,16665,2015-10-06,Fall,PC,Puzzle,PopCap Games,0.01,0.0,0.01,6.0,PopCap,,,
+Metal Gear Solid V: Ground Zeroes,311340.0,16697,2014-12-18,Winter,N64,Sports,Infogrames,0.01,0.0,0.01,,,,,
