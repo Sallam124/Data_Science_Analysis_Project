@@ -9,7 +9,7 @@ save_dir = r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data_Analysis 
 os.makedirs(save_dir, exist_ok=True)
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Dup_Free Merged_Games .csv")
+df = pd.read_csv(r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Final\Dup_Free Merged_Games .csv")
 
 # Remove non-relevant columns from summary statistics
 summary_stats = df.drop(columns=['Steam_App_ID', 'Original_Index']).describe()

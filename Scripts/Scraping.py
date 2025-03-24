@@ -2,8 +2,8 @@ import pandas as pd
 import os
 
 # Paths clearly defined
-wiki_path = r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Games_Season_wiki_Cleaned.csv"
-steam_path = r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Game_Seasons(Steam).csv"
+wiki_path = r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Other\Games_Season_wiki_Cleaned.csv"
+steam_path = r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Other\Game_Seasons(Steam).csv"
 output_path = r"C:\Users\salla\OneDrive\Desktop\Data_Science_Project\Data\Processed\Merged_Game_Seasons.csv"
 
 # Load datasets
