@@ -40,7 +40,6 @@ merged_df['Release_Season'] = merged_df.get('Release_Season_x', pd.Series()).com
 # Drop unnecessary duplicated columns if they exist
 merged_df.drop(columns=[col for col in ['Release_Season_x', 'Release_Season_y'] if col in merged_df.columns], inplace=True)
 
-# Specify sales unit explicitly (in millions)
 merged_df.rename(columns={
     'Global_Sales': 'Global_Sales_Millions',
     'EU_Sales': 'EU_Sales_Millions',
