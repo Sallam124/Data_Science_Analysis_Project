@@ -4,15 +4,14 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 
-# --- Load data ---
 @st.cache_data
 def load_data():
     df = pd.read_csv("Data/Processed/Final/Merged_Final.csv")  # Path to your data file
     st.write(df.head())  # Check if the data is loaded correctly
     return df
 
-# --- Load model ---
 @st.cache_resource
 def load_model():
     model = joblib.load("pkl_files/linear_model.pkl")  # Path to the saved Linear Regression model
@@ -110,13 +109,14 @@ def create_visualizations(df):
         year_sales_plot
     )
 
-# Load data and visualizations
+
 df = load_data()
 plots = create_visualizations(df)
 
 # --- Streamlit UI ---
 st.title("🎮 Game Sales Analysis & Prediction")
 
+# Exploratory Data Analysis Section
 st.subheader("📊 Exploratory Data Analysis")
 st.pyplot(plots[0])  # Global Sales Distribution by Genre
 st.pyplot(plots[1])  # Global Sales Distribution by Platform
@@ -126,63 +126,52 @@ st.pyplot(plots[4])  # Price vs Global Sales by Genre
 st.pyplot(plots[5])  # Global Sales by Release Season
 st.pyplot(plots[6])  # Average Global Sales Over Years
 
-# --- PREDICTION SECTION ---
+# --- Mappings ---
+genre_mapping = {0: "Action", 1: "Sports", 2: "Shooter", 3: "RPG", 4: "Fighting", 5: "Strategy", 6: "Adventure", 7: "Puzzle", 8: "Racing", 9: "Simulation", 10: "Platform", 11: "Other"}
+platform_mapping = {0: "Wii", 1: "PS4", 2: "PS3", 3: "PS2", 4: "Xbox One", 5: "Xbox 360", 6: "Xbox", 7: "PC", 8: "3DS", 9: "PSP", 10: "DS", 11: "PS Vita", 12: "NES", 13: "SNES", 14: "N64", 15: "Game Boy", 16: "Game Boy Color", 17: "GameCube", 18: "Dreamcast", 19: "Saturn", 20: "PC Engine", 21: "Neo Geo", 22: "Wii U", 23: "PSP Go", 24: "Virtual Boy", 25: "3DO"}
+season_mapping = {1: "Spring", 2: "Summer", 3: "Fall", 4: "Winter"}
+
 st.subheader("📈 Predict Game Sales Potential")
 
 # Sample Input UI
 col1, col2 = st.columns(2)
+
 with col1:
-    genre = st.selectbox("Genre", df['Genre'].unique(), key="genre")
-    platform = st.selectbox("Platform", df['Platform'].unique(), key="platform")
-    price = st.number_input("Price", value=30.0, step=1.0, key="price")
+    genre = st.selectbox("Genre", list(genre_mapping.values()), key="genre")
+    platform = st.selectbox("Platform", list(platform_mapping.values()), key="platform")
+    price = st.slider('Price', min_value=0.0, max_value=99.99, step=0.10, key="price")  
 
 with col2:
     user_score = st.slider("User Score", 0.0, 10.0, 7.5, key="user_score")
-    year = st.number_input("Release Year", value=2020, step=1, key="year")
+    release_year = st.slider("Release Year", 1980, 2035, 2000, key="release_year")  
+    release_season = st.selectbox("Release Season", list(season_mapping.values()), key="release_season")
 
 # Load the model
 model = load_model()
 
 # Handle preprocessing of input data
 if st.button("Predict Sales Potential"):
-    # Create the input data as a DataFrame
-    input_data = pd.DataFrame([[genre, platform, price, user_score, year]],
-                              columns=['Genre', 'Platform', 'Price', 'User_Score', 'Year_of_Release'])
-    
-    # Fill missing values with a default value
-    input_data['Genre'] = input_data['Genre'].fillna('Unknown')
-    input_data['Platform'] = input_data['Platform'].fillna('Unknown')
+    genre_numeric = {v: k for k, v in genre_mapping.items()}[genre]
+    platform_numeric = {v: k for k, v in platform_mapping.items()}[platform]
+    release_season_numeric = {v: k for k, v in season_mapping.items()}[release_season]
 
-    # Preprocess: encode categorical variables and apply necessary transformations
-    input_data_transformed = pd.get_dummies(input_data, columns=['Genre', 'Platform'], drop_first=True)
+    scaler = MinMaxScaler()
+    price_normalized = price / 99.99
+    year_normalized = (release_year - 1980) / (2030 - 1980)
 
-    # Get the model's feature set
-    model_columns = joblib.load("pkl_files/feature_columns.pkl")  # Load the columns used by the model
-    
-    # Align input data columns with model's feature set
-    missing_cols = set(model_columns) - set(input_data_transformed.columns)
-    for col in missing_cols:
-        input_data_transformed[col] = 0  # Add missing columns with default value
+    input_data = pd.DataFrame([[genre_numeric, platform_numeric, release_season_numeric, price_normalized, user_score, year_normalized]], 
+                              columns=['Genre', 'Platform', 'Release_Season', 'Price', 'User_Score', 'Year_of_Release'])
 
-    # Ensure the columns are in the same order as the model
-    input_data_transformed = input_data_transformed[model_columns]
+    input_data['Genre'] = input_data['Genre'].fillna(0)
+    input_data['Platform'] = input_data['Platform'].fillna(0)
+    input_data['Release_Season'] = input_data['Release_Season'].fillna(1)
+    input_data['Price'] = input_data['Price'].fillna(0.5)
+    input_data['User_Score'] = input_data['User_Score'].fillna(5.0)
+    input_data['Year_of_Release'] = input_data['Year_of_Release'].fillna(0.5)
 
-    # Predict using the trained model
-    sales_prediction = model.predict(input_data_transformed)
+    input_data = pd.get_dummies(input_data, drop_first=True)
 
-    # Display the prediction
+
+    prediction = model.predict(input_data)
     st.header("Prediction Result")
-    st.metric("Predicted Global Sales (in millions)", f"${sales_prediction[0]:.2f}M")
-
-# --- Session State Handling for Reduced UI Reset ---
-# Store the user inputs persistently to avoid resetting on button press
-if "genre" not in st.session_state:
-    st.session_state["genre"] = genre
-if "platform" not in st.session_state:
-    st.session_state["platform"] = platform
-if "price" not in st.session_state:
-    st.session_state["price"] = price
-if "user_score" not in st.session_state:
-    st.session_state["user_score"] = user_score
-if "year" not in st.session_state:
-    st.session_state["year"] = year
+    st.metric("Predicted Global Sales (in millions)", f"${prediction[0]:.2f}M")
