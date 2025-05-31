@@ -1,20 +1,30 @@
-# Data_Science_Project
- 
-This project is a comprehensive data science workflow that combines exploratory data analysis (EDA) and predictive modeling. It focuses on understanding the data, uncovering patterns, and building models to make accurate predictions.
+Gaming Sales Prediction – Data Science & EDA Project
+This project explores global video game sales through exploratory data analysis (EDA) and predictive modeling, with the goal of predicting the potential sales of an imaginary game based on various game features.
 
-Key Features:
-Performed in-depth exploratory data analysis to identify trends and insights
+Project Overview
+Using a dataset sourced from Kaggle and enriched through web scraping from platforms like Steam and other gaming sources, this project analyzes patterns in game performance and builds models to estimate sales based on game attributes.
 
-Applied a range of predictive models, including linear and non-linear methods
+Key Features
+Conducted in-depth exploratory data analysis to uncover trends by genre, platform, and region
 
-Created APIs to automate data collection and enrich the dataset
+Built multiple predictive models (Linear Regression, SVR, Random Forest, and more)
 
-Cleaned and processed real-world data for effective modeling
+Created APIs to automate and enhance dataset quality through real-time data scraping
 
-Developed visualizations to support data-driven understanding
+Processed and cleaned data for accurate and reliable modeling
 
-Deployed an interactive prediction tool for user-friendly access
+Visualized key metrics like regional sales, critic/user scores, and publisher impact
 
-Gained practical experience in training, testing, and evaluating machine learning models
+Deployed an interactive web app for users to simulate and predict game sales
 
-This project showcases a full cycle of a data science solution, from raw data exploration to real-time prediction.
+Try the Live App Here:
+https://sallam124-data-science-project-gaming-analytics-voelnv.streamlit.app/
+
+Dataset Features
+Game attributes: Name, Platform, Genre, Publisher, Developer, Rating
+
+Regional sales: NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales
+
+Review metrics: Critic_Score, User_Score, Critic_Count, User_Count
+
+Target variable: Global_Sales (for predictive modeling)
